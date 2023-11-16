@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa 48
+* source:	https://sketchfab.com/3d-models/sofa-48-fcf3d141539245969e78026f2d70d6f3
+* author:	Augusto.Angulo (https://sketchfab.com/Augusto.Angulo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa 48" (https://sketchfab.com/3d-models/sofa-48-fcf3d141539245969e78026f2d70d6f3) by Augusto.Angulo (https://sketchfab.com/Augusto.Angulo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
