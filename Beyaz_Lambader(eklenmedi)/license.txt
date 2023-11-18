@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sweep Floor Lamp
+* source:	https://sketchfab.com/3d-models/sweep-floor-lamp-0f2484811e4e4dc39f8b0be9323d5875
+* author:	MADE.COM (https://sketchfab.com/made-it)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sweep Floor Lamp" (https://sketchfab.com/3d-models/sweep-floor-lamp-0f2484811e4e4dc39f8b0be9323d5875) by MADE.COM (https://sketchfab.com/made-it) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
