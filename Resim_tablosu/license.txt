@@ -1,0 +1,11 @@
+Model Information:
+* title:	Piazza
+* source:	https://sketchfab.com/3d-models/piazza-755417f62bbc49b19f7a16e5fe9074c9
+* author:	3DTwins (https://sketchfab.com/3dtwins)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Piazza" (https://sketchfab.com/3d-models/piazza-755417f62bbc49b19f7a16e5fe9074c9) by 3DTwins (https://sketchfab.com/3dtwins) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
