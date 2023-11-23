@@ -1,0 +1,11 @@
+Model Information:
+* title:	Шкаф Innova-H06
+* source:	https://sketchfab.com/3d-models/innova-h06-b14d6423a1b444559be2c484314bc2ff
+* author:	ООО Центр мебели "Интерлиния" (https://sketchfab.com/Interline_furniture)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Шкаф Innova-H06" (https://sketchfab.com/3d-models/innova-h06-b14d6423a1b444559be2c484314bc2ff) by ООО Центр мебели "Интерлиния" (https://sketchfab.com/Interline_furniture) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
