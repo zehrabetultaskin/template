@@ -1,0 +1,11 @@
+Model Information:
+* title:	Тумба КЛ-010
+* source:	https://sketchfab.com/3d-models/010-f6a6fe3a00bb441c8daa41728245c688
+* author:	ООО Центр мебели "Интерлиния" (https://sketchfab.com/Interline_furniture)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Тумба КЛ-010" (https://sketchfab.com/3d-models/010-f6a6fe3a00bb441c8daa41728245c688) by ООО Центр мебели "Интерлиния" (https://sketchfab.com/Interline_furniture) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
